@@ -26,6 +26,12 @@ The Miniature Engine Model is a fundamental mechanical assembly designed using A
 2. Explore the timeline and animation tools to craft dynamic presentations.
 3. Utilize exploded views to illustrate component relationships and assembly processes.
 ![image](https://github.com/vanhau13032001/3D_INVENTOR/assets/131149905/3d2f5798-2de5-4d49-88a4-494d4e159ee7)
+![image](https://github.com/vanhau13032001/3D_INVENTOR/assets/131149905/bdd9b8de-d847-4fbb-9a26-d28fb0d11fed)
+### Drawing Environment
+1. Open the "Miniature_Engine_Drawing.idw" file within Autodesk Inventor's Drawing environment to generate engineering drawings of the engine.
+2. Customize the drawing sheets, views, and annotations to create comprehensive engineering documentation.
+3. 
+
 
 
 
