@@ -39,7 +39,10 @@ The Miniature Engine Model is a fundamental mechanical assembly designed using A
 ![image](https://github.com/vanhau13032001/3D_INVENTOR/assets/131149905/b3dae184-47f0-4fd0-a212-5a681328b30e)
 ![image](https://github.com/vanhau13032001/3D_INVENTOR/assets/131149905/716c4467-40d0-41c7-9306-1340f0b1c02b)
 ![image](https://github.com/vanhau13032001/3D_INVENTOR/assets/131149905/71569e04-b1b6-49c3-b41e-aa347d3faa64)
-![image](https://github.com/vanhau13032001/3D_INVENTOR/assets/131149905/99719244-041c-44e6-baf9-c53e79999a90)
+![image](https://github.com/vanhau13032001/3D_INVENTOR/assets/131149905/08a5521e-0cbe-4b0a-8997-3ae3c7598810)
+![image](https://github.com/vanhau13032001/3D_INVENTOR/assets/131149905/1c2263b5-95eb-4473-a689-5cdd14321184)
+
+
 
 
 
