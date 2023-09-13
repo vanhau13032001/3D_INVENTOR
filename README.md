@@ -21,6 +21,13 @@ The Miniature Engine Model is a fundamental mechanical assembly designed using A
 ![image](https://github.com/vanhau13032001/3D_INVENTOR/assets/131149905/e14a3417-8f01-48fe-9846-befce9122553)
 ![image](https://github.com/vanhau13032001/3D_INVENTOR/assets/131149905/917fc60f-63d8-4dc6-8167-0de1f2c52f49)
 
+### Presentation Environment
+1. Open the "Miniature_Engine_Presentation.ipn" file within Autodesk Inventor's Presentation environment to create animations or exploded views of the engine.
+2. Explore the timeline and animation tools to craft dynamic presentations.
+3. Utilize exploded views to illustrate component relationships and assembly processes.
+![image](https://github.com/vanhau13032001/3D_INVENTOR/assets/131149905/3d2f5798-2de5-4d49-88a4-494d4e159ee7)
+
+
 
 
 
