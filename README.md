@@ -1,7 +1,7 @@
 # Miniature Steam Engine 
-# Project Description
+## Project Description
 The Miniature Engine Model is a fundamental mechanical assembly designed using Autodesk Inventor. This project  as an of Autodesk Inventor's across various environments, including Part, Assembly, Presentation, and Drawing. 
-## Part Environment
+### Part Environment
 1. Open the "Miniature_Engine_Part.ipt" file within Autodesk Inventor's Part environment to explore the individual components of the engine.
 2. Navigate through the model tree to view and modify individual parts.
 3. Experiment with parametric design by adjusting dimensions and features to observe their impact on the model.
@@ -41,6 +41,14 @@ The Miniature Engine Model is a fundamental mechanical assembly designed using A
 ![image](https://github.com/vanhau13032001/3D_INVENTOR/assets/131149905/71569e04-b1b6-49c3-b41e-aa347d3faa64)
 ![image](https://github.com/vanhau13032001/3D_INVENTOR/assets/131149905/08a5521e-0cbe-4b0a-8997-3ae3c7598810)
 ![image](https://github.com/vanhau13032001/3D_INVENTOR/assets/131149905/1c2263b5-95eb-4473-a689-5cdd14321184)
+
+## Author
+- Tran Van Hau (Trần Văn Hậu)
+- Email: tranvanhau.13032001@gmail.com
+- SĐT: 0989025870
+## Contact
+Should you have any questions, suggestions, or interest in collaboration, please do not hesitate to reach out to the author via email or through GitHub.
+Enjoy exploring and learning with the Miniature Engine Model in Autodesk Inventor!
 
 
 
